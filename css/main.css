@@ -26,7 +26,7 @@ nav ul {
   background-color: #b58900;
 }
 
-.dfn + strong:nth-last-of-type(2) {
+.dfn + strong:nth-of-type(2) {
   color: #fff;
 }
 
